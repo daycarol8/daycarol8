@@ -9,6 +9,7 @@ I’m currently learning Front-End with `ReactJs`
 
 ### Games developed: 
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/playlist?list=PL1MZhe_yYHXmT80isofdinhNMFGzcxuCh)
+[<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />](https://daycarol8.itch.io/)
 
 #
 ### Technologies: 
@@ -24,6 +25,7 @@ I’m currently learning Front-End with `ReactJs`
 
 <!--[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](daycarol848@gmail.com)
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+
 >>
 
 
