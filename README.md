@@ -1,6 +1,6 @@
 ## Hi, I'm Dayanne Carolina :D
 
-I started to code on HighSchool, developing games with Unity, now I am looking for opportunities related to `Front-end Jr` and `C#/Unity` 
+I started to code on HighSchool, developing games with Unity, I am currentily working with NextJs on Front-End and studying Computer Science
 
 I’m currently learning Front-End with `ReactJs`
 
