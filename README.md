@@ -2,8 +2,6 @@
 
 I started to code on HighSchool, developing games with Unity, I am currentily working with NextJs on Front-End and studying Computer Science
 
-I’m currently learning Front-End with `ReactJs`
-
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dayanne-carolina)
 ##
 
