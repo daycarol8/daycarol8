@@ -1,6 +1,6 @@
 ## Hi, I'm Dayanne Carolina :D
 
-I started to code on HighSchool, developing games with Unity, I am currentily working with NextJs on Front-End and studying Computer Science
+I started to code on High School, developing games with Unity, I have experience working with NextJs on Front-End, and I am currently researching Cybersecurity and studying Computer Science
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dayanne-carolina)
 ##
